@@ -1,5 +1,5 @@
 # Hey, this is Snabble! 
-![Team Snabble](https://f.hubspotusercontent30.net/hubfs/4534839/gitbuh-team-v1.jpg)
+![Team Snabble](https://snabble.io/hubfs/snabble-team-2021@3x.webp)
 
 In 2018, Sebastian Mancke founded **Snabble** as a spin-off company of the tarent AG. Our **Scan & Go app** is a multi-retailer app. As a platform, it combines all retailers in one app. In addition, we are working on many features such as couponing and product recommendations.
 
